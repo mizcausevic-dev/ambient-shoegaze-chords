@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1927,
+      "sha256": "5f9a7db1a0da6b0f18d59f1d060c1379f6f0ea281a8728619a7f5b1e7a755a8b"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 197467,
+      "sha256": "f023758ef145a5141c3b8968f873f5e1b65ab0c0bbbf44fe1e284081d5ce5a9f"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2406142,
+      "sha256": "237b8bb69aa7f8d287d2edd2f29081010d2e6f1533d4fe9de723d45ce200cbf8"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 288,
+      "sha256": "905a694c8b0f4dc5efe39800aa01e0d90045fc4f27470d71e364fbd35f51d569"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "1ccdd5a5187a043f6b0d7f8627f803a1f20b9ca6265cef6ee69c1034182499a7"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 219782,
+      "sha256": "d66a72107729f3c04ab3300c6c9d2a5d45289b91927cc447782a5466c870410e"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 748,
+      "sha256": "ecd3cc574b2fe8df2269b3d5abcde56f4663334de82a4f63eb9c3ce03544e949"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 748,
+      "sha256": "ecd3cc574b2fe8df2269b3d5abcde56f4663334de82a4f63eb9c3ce03544e949"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2204,
+      "sha256": "be1fddd232e85cca3441e11b4beafe56ddcf0a54fe1ec83c64637499d4ee6b64"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25014,
+      "sha256": "005cfe8313c072ab308d4eda66c56d39a7006a07f8193f12847e46260aaf2c55"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99118,
+      "sha256": "fe6613def9ca61b4fdee8b7013dc45d507fa0a32882ca5dd164def4aa0dd4581"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2494,
+      "sha256": "5ea0cc0079bc0d1ce38993d76673ab812929ce0f83150b3f5a3fced959b56367"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "3ecd6f93ff8b931facd524b678b0edb2bf1e068a5421ed284d2a9837a11c070a"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1210,
+      "sha256": "cce35c05e03692867d5307bdc9d87e69ed229ab5f9690004f3373bd1f12afd6c"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 385,
+      "sha256": "64fdc8347d8a55ed5e9f41f965dc6adb9f43398b29d311ec66f9c66a9095984f"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "e484453db255dab39a7851124a16eef14ad242a2575e325b90704e8891d9fa15"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z6101-chord-progression-01.mid",
+      "bytes": 268,
+      "sha256": "43ad4dd96f20235764f7e379f6e32371d1fe8d3cdbb18f47a6ddde107b09f986"
+    },
+    {
+      "path": "clips/z6101-chord-progression-02.mid",
+      "bytes": 268,
+      "sha256": "4a68db55b38c98de0679a1ae9ebbd90c73bae497b9dddecbe09736045d856269"
+    },
+    {
+      "path": "clips/z6101-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "215f4b4bf32724b9cd006be14e6fdaa366bf579dd1800d0e08fbb386a9ad3232"
+    },
+    {
+      "path": "clips/z6101-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "f9cbfa74e98a17355968021f0ff662f7ac6fb48620539ba111e6f6005ef80a2d"
+    },
+    {
+      "path": "clips/z6102-chord-progression-01.mid",
+      "bytes": 268,
+      "sha256": "07103497fa0db59432247ebe0f6b0a46bde015536456f9c84e803ef5f2f6be52"
+    },
+    {
+      "path": "clips/z6102-chord-progression-02.mid",
+      "bytes": 268,
+      "sha256": "726a663a63a72e7e8e405cdafa51465ef38eb8fe9609b80a1961f1143ca5da7b"
+    },
+    {
+      "path": "clips/z6102-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "aa14bdb09fc3d579250427f00a1ecce9428f2113654f8436600e1c6c68bcb070"
+    },
+    {
+      "path": "clips/z6102-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "ff573395fb3fdde1a82b82bb1c21edc48191166df8a498d925fd0b01691dbc25"
+    },
+    {
+      "path": "clips/z6103-chord-progression-01.mid",
+      "bytes": 268,
+      "sha256": "beeb5feb63f49651b8afff0ffda7db096f63af33e19e3c276bcb8e04e3009ee9"
+    },
+    {
+      "path": "clips/z6103-chord-progression-02.mid",
+      "bytes": 268,
+      "sha256": "ddd1db26c609601f7436c89e4879ff8b3a17bc5ba5b7402dc1693df9481ff9cc"
+    },
+    {
+      "path": "clips/z6103-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "d99e96156976b0ffe08ce0fa16d66bd88df44696ba636cb6ae13251bcff2497f"
+    },
+    {
+      "path": "clips/z6103-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "7238ef419b0d4aa0d2cab11e16f3912d89c71cd454e2ce75163c917f1ae90fb6"
+    },
+    {
+      "path": "clips/z6104-chord-progression-01.mid",
+      "bytes": 268,
+      "sha256": "acb06b6b4987220b7ffc659f7236bd5483be526e6fa237ca6cc6cd5e0353a8e9"
+    },
+    {
+      "path": "clips/z6104-chord-progression-02.mid",
+      "bytes": 268,
+      "sha256": "3833d26e4579f19543024721b246fe7e0556e215726bedde0c93fc330db2a856"
+    },
+    {
+      "path": "clips/z6104-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "ad144e8cb6cfb8ae34b44324423b6355583d063056d1305b5fbe22971c63aecb"
+    },
+    {
+      "path": "clips/z6104-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "9a086c643aef36aeb8f16500c0479534591711b43c9a2c60fdf43233e314e5bd"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 433,
+      "sha256": "2327563ac9c5336b447a48b58f742a8ab8fa2aa294a1f4088c1810770f7014a7"
+    },
+    {
+      "path": "downloads/ambient-shoegaze-chords-midi.zip",
+      "bytes": 32403,
+      "sha256": "392e8d13c837cc5d367dcca406e78a5359323419b5b1034f1e94dbdd4c255600"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2652,
+      "sha256": "1aad43acf3047dec0352e170f4431a5a49260591e0d131f63e01030e1872f678"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 36683,
+      "sha256": "086e266c2ceda94d56047acf0b0e0a7e40cd108625aca9390b257b7f892858a8"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 198186,
+      "sha256": "eb803a8718dfb77fa517132051c016a7ff37d35bf46707efacf7f40b0507b585"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 682916,
+      "sha256": "a2ad5afb3e0386b73a254a076aed643358cccee7c0373321143453500b246b98"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1226,
+      "sha256": "02a7ef94a87dd87a32b81ceeedb968754c0ee1bfd252e4b49cb73ed1de22200f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9996,
+      "sha256": "21609dec189c9010d07f2193941bea3971bb2bbb3e81d3ab1617b67071aa0cee"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ccb1fbc20781aa598c6206dfe20c4726bdba194faa774e7c68f02014c8a036be"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d3884a7209060c156467ce38a0f24a723191efece9e9243bd500b25b138e0819"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "cbd9b6712c198f205321befe7c7a442e994333cccb266c47971eb29c8b5f13c7"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "85eedf338e7b791a07411de659e240ff5060f8eb4bfacd46b1406443a0006146"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "27528c085f46a40bf636caa24126537c8b2dfb1654200efee095661d02909895"
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/z6101-ambient-shoegaze-chords-opening-combined.mid",
+      "bytes": 5650,
+      "sha256": "bd1e2a1760db36a5f87f2faa6251aaebd26a503148d541fb2606f40923445224"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "d8ac0f56dfe1b36d00af981d39309f4ba046416b984fba386369edbd3bc8106b"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4642bbeadd1a6f4b629fa81dfe1188e87981cf63caa15b003d3ee3caf152f57f"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "7d04d145ddc3bb7c2ac76b16583c18a799f6c2b8d2bff947381f1eba3a728088"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "29d7e640b7ac5e033e7da40ad7a425976833b85bb598d035e7b62a73c5c21881"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "24318a66dae8292b6ea9bca763e6efbea87df25084010222b083075e5968f6da"
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/z6102-ambient-shoegaze-chords-variation-combined.mid",
+      "bytes": 5649,
+      "sha256": "14f40d3b55aac756049144960b6123144ff9f1437ef07ceeefad42beb2b61e50"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "dda77d3d0ccd69b0bd64f053483dcf5b09556862cf7d1dc766321eaf1281a8cf"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "eb03b38627896e60dd73a10ecfc1d5221fede027d81e3d4040b25a893881c3ce"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "70bd28629a026199e301f949dbee70e2591a1f76ce261ff68e20fe86be32462f"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "7722cc6518d603f0185bb47ec9112cd5ef9c0e258d0ffc907e838a3e8188ea1e"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c1fb800d9dc4fc16be32648184b6f1e90a6cbe816b797e7178d4fd4af332012c"
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/z6103-ambient-shoegaze-chords-contrast-combined.mid",
+      "bytes": 5615,
+      "sha256": "d8003bd244c28c3cdd955bb900ceaac5ecc87f85c32cf3e92005476c47c2edd4"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ba93a06df75ac8da0a962164a16861c73d39c38c8d2a8fecc76ef29ff84d5d5b"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "782c36b10aacf4cc2330890217e3fed067de87f1a42d98dd6c57c3643ce8f234"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "b4b479ee39ddaab0e80213a08936cb8ec2664aed547a205228d2e72c645bdcdc"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "fcea0aa0286d900c0522cf64539301e906f03ba709eddf987480af43bcd4d200"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8b32923bde827b6715a24cb657766d801c2e0b65d8161690dbc97d97c1a9ac05"
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/z6104-ambient-shoegaze-chords-return-combined.mid",
+      "bytes": 5615,
+      "sha256": "8cf68ea0d1a8729fa327d008e06ac327b1820cd3f84424516a80850b36888a13"
+    },
+    {
+      "path": "preview/ambient-shoegaze-chords-simple-synth-preview.mp3",
+      "bytes": 1720364,
+      "sha256": "1741955900b8503c7cc92ba641226df067b041d15e66afbd3f0b16626aa9c51f"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1179,
+      "sha256": "b16aab80557b9a2f02ac857201e7e1c8a66cfc26f5b17e0d54ede63060fd60a4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3980,
+      "sha256": "9f0890a1a0e2690a0e6b584063a97e430666f893dabfd5f4133f806934fe8ef8"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 226,
+      "sha256": "523ed48903aee655a352d645a81e7b7bd2aecd3ec147f98296ae46bb719f3ad9"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 222753,
+      "sha256": "973225768a570776681319a52da5bddefe9d969a518c31a661799e4fb9583f65"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 199227,
+      "sha256": "824c6cef6bbeeacf81d685a65b8da9483e7d25e52b65fa86cf028f653cc338a9"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 177454,
+      "sha256": "1f9374901b79ec5ce2b19c30f80e73c1121cbadf91f8df530dab2e66d66faa16"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 188,
+      "sha256": "52f6a663a9f3dfd9a4a0d4d0128449d8323593370a4908769f9666e7edb94036"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "c0fd17589ba230732263e5efde436919233dcb7733f32194131c443308c4dfd0"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

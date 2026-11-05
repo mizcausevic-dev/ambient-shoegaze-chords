@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:17.395397+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ccb1fbc20781aa598c6206dfe20c4726bdba194faa774e7c68f02014c8a036be",
+      "errors": []
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d3884a7209060c156467ce38a0f24a723191efece9e9243bd500b25b138e0819",
+      "errors": []
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "cbd9b6712c198f205321befe7c7a442e994333cccb266c47971eb29c8b5f13c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "85eedf338e7b791a07411de659e240ff5060f8eb4bfacd46b1406443a0006146",
+      "errors": []
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "27528c085f46a40bf636caa24126537c8b2dfb1654200efee095661d02909895",
+      "errors": []
+    },
+    {
+      "path": "midi/z6101-ambient-shoegaze-chords-opening/z6101-ambient-shoegaze-chords-opening-combined.mid",
+      "bytes": 5650,
+      "sha256": "bd1e2a1760db36a5f87f2faa6251aaebd26a503148d541fb2606f40923445224",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "d8ac0f56dfe1b36d00af981d39309f4ba046416b984fba386369edbd3bc8106b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4642bbeadd1a6f4b629fa81dfe1188e87981cf63caa15b003d3ee3caf152f57f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "7d04d145ddc3bb7c2ac76b16583c18a799f6c2b8d2bff947381f1eba3a728088",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "29d7e640b7ac5e033e7da40ad7a425976833b85bb598d035e7b62a73c5c21881",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "24318a66dae8292b6ea9bca763e6efbea87df25084010222b083075e5968f6da",
+      "errors": []
+    },
+    {
+      "path": "midi/z6102-ambient-shoegaze-chords-variation/z6102-ambient-shoegaze-chords-variation-combined.mid",
+      "bytes": 5649,
+      "sha256": "14f40d3b55aac756049144960b6123144ff9f1437ef07ceeefad42beb2b61e50",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "dda77d3d0ccd69b0bd64f053483dcf5b09556862cf7d1dc766321eaf1281a8cf",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "eb03b38627896e60dd73a10ecfc1d5221fede027d81e3d4040b25a893881c3ce",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "70bd28629a026199e301f949dbee70e2591a1f76ce261ff68e20fe86be32462f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "7722cc6518d603f0185bb47ec9112cd5ef9c0e258d0ffc907e838a3e8188ea1e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c1fb800d9dc4fc16be32648184b6f1e90a6cbe816b797e7178d4fd4af332012c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6103-ambient-shoegaze-chords-contrast/z6103-ambient-shoegaze-chords-contrast-combined.mid",
+      "bytes": 5615,
+      "sha256": "d8003bd244c28c3cdd955bb900ceaac5ecc87f85c32cf3e92005476c47c2edd4",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ba93a06df75ac8da0a962164a16861c73d39c38c8d2a8fecc76ef29ff84d5d5b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "782c36b10aacf4cc2330890217e3fed067de87f1a42d98dd6c57c3643ce8f234",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "d3553ece8d4bc4afa2643e1ca3f765b0094a8c211f6fc4a8029a815da0b6e7a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "b4b479ee39ddaab0e80213a08936cb8ec2664aed547a205228d2e72c645bdcdc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "fcea0aa0286d900c0522cf64539301e906f03ba709eddf987480af43bcd4d200",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8b32923bde827b6715a24cb657766d801c2e0b65d8161690dbc97d97c1a9ac05",
+      "errors": []
+    },
+    {
+      "path": "midi/z6104-ambient-shoegaze-chords-return/z6104-ambient-shoegaze-chords-return-combined.mid",
+      "bytes": 5615,
+      "sha256": "8cf68ea0d1a8729fa327d008e06ac327b1820cd3f84424516a80850b36888a13",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

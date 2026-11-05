@@ -1,0 +1,26 @@
+{
+  "title": "Ambient Shoegaze Chords",
+  "study": "z6101",
+  "bpm": 108,
+  "source_audio": "preview/ambient-shoegaze-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "1741955900b8503c7cc92ba641226df067b041d15e66afbd3f0b16626aa9c51f",
+  "source_midi": "midi/z6101-ambient-shoegaze-chords-opening/z6101-ambient-shoegaze-chords-opening-combined.mid",
+  "source_midi_sha256": "bd1e2a1760db36a5f87f2faa6251aaebd26a503148d541fb2606f40923445224",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "fe6613def9ca61b4fdee8b7013dc45d507fa0a32882ca5dd164def4aa0dd4581",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f023758ef145a5141c3b8968f873f5e1b65ab0c0bbbf44fe1e284081d5ce5a9f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "a2ad5afb3e0386b73a254a076aed643358cccee7c0373321143453500b246b98",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

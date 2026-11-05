@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/ambient-shoegaze-chords-simple-synth-preview.mp3",
+  "preview_sha256": "1741955900b8503c7cc92ba641226df067b041d15e66afbd3f0b16626aa9c51f",
+  "source_midi_path": "midi/z6101-ambient-shoegaze-chords-opening/z6101-ambient-shoegaze-chords-opening-combined.mid",
+  "source_midi_sha256": "bd1e2a1760db36a5f87f2faa6251aaebd26a503148d541fb2606f40923445224",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z6101",
+    "start_seconds": 0,
+    "end_seconds": 71.111
+  },
+  "measurement": {
+    "sample_peak": 0.139001,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
