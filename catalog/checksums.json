@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/ambient-shoegaze-chords-midi.zip",
-      "bytes": 32403,
-      "sha256": "392e8d13c837cc5d367dcca406e78a5359323419b5b1034f1e94dbdd4c255600"
+      "bytes": 33390,
+      "sha256": "893c1ae150eb2dbd35cad6fe538ca780f0f538ac34e9056a4cef9e3b16f09dfd"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "21609dec189c9010d07f2193941bea3971bb2bbb3e81d3ab1617b67071aa0cee"
+      "bytes": 10186,
+      "sha256": "664e86f6c0299a2fce3eb6587efe5d509172b2975fff78fe791eb9fdf9791aa1"
     },
     {
       "path": "midi/z6101-ambient-shoegaze-chords-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "8cf68ea0d1a8729fa327d008e06ac327b1820cd3f84424516a80850b36888a13"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/ambient-shoegaze-chords-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "1741955900b8503c7cc92ba641226df067b041d15e66afbd3f0b16626aa9c51f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3986,
-      "sha256": "39bfb0db1c901ed1117f58248a82aa654a5f3f6978f4a7ddc28c77a570381fbd"
+      "bytes": 4101,
+      "sha256": "eed4ffda122f3fcc6e634e020f394897ca0e01f297669d1a6ca8437172fe3604"
     },
     {
       "path": "social/instagram/caption.txt",
